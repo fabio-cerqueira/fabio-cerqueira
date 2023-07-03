@@ -1,4 +1,4 @@
-## Oiii eu sou o Fabio Morais, desenvolvedor front end em formação!
+## Oiii eu sou o Fabio Morais, desenvolvedor front end.
 
 - 🌱 Estudando JavaScript
 - 😄 Pronouns: ele/dele
